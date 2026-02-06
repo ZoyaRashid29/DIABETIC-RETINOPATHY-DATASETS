@@ -10,7 +10,7 @@ Due to the large size of the datasets and licensing restrictions, the datasets a
 
 ## Datasets Used
 
-### 1. APTOS 2019 Blindness Detection Dataset
+### 1. Diabetic Retinopathy Balanced Dataset
 - Source: Kaggle
 - Description: Retinal fundus images labeled according to the severity of diabetic retinopathy (five-class classification).
 - Link:  
