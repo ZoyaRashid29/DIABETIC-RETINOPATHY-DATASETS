@@ -35,6 +35,4 @@ No new patient data were collected, and no personally identifiable information i
 
 ---
 
-## Contact
 
-For any questions regarding data usage or access, please contact the corresponding author via the official manuscript submission system.
